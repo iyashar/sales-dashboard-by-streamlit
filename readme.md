@@ -1,7 +1,5 @@
 # Sales Analysis Dashboard / داشبورد تحلیل فروش
 
-![Dashboard Preview](https://via.placeholder.com/800x400/4F8BF9/FFFFFF?text=Sales+Analysis+Dashboard)
-
 ---
 
 ## 🇺🇸 English Version
