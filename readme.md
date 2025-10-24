@@ -2,8 +2,6 @@
 
 ---
 
-## 🇺🇸 English Version
-
 ### 📊 Overview
 A comprehensive, interactive sales analysis dashboard built with Streamlit. This platform provides advanced sales analytics, temporal pattern identification, and regional performance comparison capabilities.
 
@@ -249,7 +247,6 @@ This project is licensed under the MIT License. See LICENSE file for details.
 
 ---
 
-## 🇮🇷 نسخه فارسی
 
 ### 📊 نمای کلی
 یک داشبورد تحلیل فروش تعاملی و جامع ساخته شده با Streamlit. این پلتفرم امکان تحلیل پیشرفته فروش، شناسایی الگوهای زمانی و مقایسه عملکرد مناطق مختلف را فراهم می‌کند.
